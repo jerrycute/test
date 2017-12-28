@@ -1,5 +1,5 @@
 {
-  "name":"hello",
+  "name":"hello/composer",
   "reuire":{
     "monolog/monolog":"dev-master"
   }

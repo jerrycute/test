@@ -1,7 +1,13 @@
 {
-  "name":"hello/composer",
-  "reuire":{
-    "monolog/monolog":"dev-master",
-    "seld/php-console":"dev-master"
-  }
+    "name": "hello/composer",
+    "description": "The Laravel Framework.",
+    "keywords": ["framework", "laravel"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "laravel/tinker": "~1.0"
+    },
+    "require-dev": {
+        "filp/whoops": "~2.0"
+    }
 }

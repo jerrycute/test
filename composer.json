@@ -3,11 +3,12 @@
     "description": "The Laravel Framework.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
-    
+    //"type": "project",
     "require": {
-        "laravel/tinker": "~1.0"
+        //"laravel/tinker": "~1.0"
+        "monolog/monolog":"dev-master"
     },
     "require-dev": {
-        "filp/whoops": "~2.0"
+        //"filp/whoops": "~2.0"
     }
 }

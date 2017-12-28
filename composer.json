@@ -1,6 +1,7 @@
 {
   "name":"hello/composer",
   "reuire":{
-    "monolog/monolog":"dev-master"
+    "monolog/monolog":"dev-master",
+    "seld/php-console":"dev-master"
   }
 }

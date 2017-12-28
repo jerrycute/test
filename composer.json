@@ -1,0 +1,6 @@
+{
+  "name":"hello",
+  "reuire":{
+    "monolog/monolog":"dev-master"
+  }
+}

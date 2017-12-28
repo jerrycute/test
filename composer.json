@@ -1,0 +1,6 @@
+{
+  "name":"jerrycute/test",
+  "require":{
+      "monolog/monolog":"dev-master"
+  }
+}
